@@ -1,6 +1,5 @@
 import './App.css';
-// import GitHubUserSearch from './components/GitHubUserSearch';
-import NewComponent from './components/NewComponent';
+import GitHubUserSearch from './components/GitHubUserSearch';
 
 function App() {
   return (
